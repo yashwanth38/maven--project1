@@ -1,0 +1,35 @@
+  1  ls
+    2  cd sample3/
+    3  ls -tlr
+    4  clear
+    5  pwd
+    6  mkdir sample2
+    7  cd sample2/
+    8  mkdir sample1
+    9  cd sample1/
+   10  clear
+   11  pwd
+   12  touch findme.txt
+   13  cd ~
+   14  clear
+   15  cd ~
+   16  pwd
+   17  df -h
+   18  uname -a
+   19  top
+   20  clear
+   21  ping google.com
+   22  ping facebook.com
+   23  ping db.applction.com
+   24  clear
+   25  ping db.application.com
+   26  ping facbook.com
+   27  clear
+   28  ps -ef
+   29  clear
+   30  ps -ef|grep java
+   31  ps -ef|grep git
+   32  ps -ef|grep ssh
+   33  ping google.com
+   34  history
+ubuntu@ip-172-31-9-97:~$
